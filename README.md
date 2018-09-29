@@ -1,1 +1,1 @@
-# Kaggle04_ImageClassifier
+# Image classification in MNIST dataset
