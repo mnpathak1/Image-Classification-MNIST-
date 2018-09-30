@@ -21,4 +21,4 @@ It was observed that data augmentation improves accuracy and therefore certain d
 Based on comparison of optimization algorithms (SGD, RMSProp, Adam etc.), although other methods showed slightly higher accuracies, Adam was used for final model.   
 With 25 epochs and batch size of 86, training and validation losses and accuracies were observed to be saturating. 
 Accuracies obtained in the test dataset is about 99.5% or higher (not shown), comparable to training and validation accuracies.  
-Erros analysis showed that the model was not able to identify mostly incomprehensible handwritten images.  
+Error analysis showed that the model was not able to identify mostly incomprehensible handwritten images.  
